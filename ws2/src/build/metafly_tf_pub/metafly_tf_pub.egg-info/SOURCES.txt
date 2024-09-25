@@ -1,0 +1,12 @@
+package.xml
+setup.cfg
+setup.py
+metafly_tf_pub/__init__.py
+metafly_tf_pub.egg-info/PKG-INFO
+metafly_tf_pub.egg-info/SOURCES.txt
+metafly_tf_pub.egg-info/dependency_links.txt
+metafly_tf_pub.egg-info/entry_points.txt
+metafly_tf_pub.egg-info/requires.txt
+metafly_tf_pub.egg-info/top_level.txt
+metafly_tf_pub.egg-info/zip-safe
+resource/metafly_tf_pub

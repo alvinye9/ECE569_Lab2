@@ -1,0 +1,21 @@
+running develop
+running egg_info
+creating metafly_tf_pub.egg-info
+writing metafly_tf_pub.egg-info/PKG-INFO
+writing dependency_links to metafly_tf_pub.egg-info/dependency_links.txt
+writing entry points to metafly_tf_pub.egg-info/entry_points.txt
+writing requirements to metafly_tf_pub.egg-info/requires.txt
+writing top-level names to metafly_tf_pub.egg-info/top_level.txt
+writing manifest file 'metafly_tf_pub.egg-info/SOURCES.txt'
+reading manifest file 'metafly_tf_pub.egg-info/SOURCES.txt'
+writing manifest file 'metafly_tf_pub.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/blackandgold/ece569-fall2024/Lab2/ws2/src/install/metafly_tf_pub/lib/python3.10/site-packages/metafly-tf-pub.egg-link (link to .)
+
+Installed /home/blackandgold/ece569-fall2024/Lab2/ws2/src/build/metafly_tf_pub
+running symlink_data
+creating /home/blackandgold/ece569-fall2024/Lab2/ws2/src/install/metafly_tf_pub/share/ament_index
+creating /home/blackandgold/ece569-fall2024/Lab2/ws2/src/install/metafly_tf_pub/share/ament_index/resource_index
+creating /home/blackandgold/ece569-fall2024/Lab2/ws2/src/install/metafly_tf_pub/share/ament_index/resource_index/packages
+symbolically linking /home/blackandgold/ece569-fall2024/Lab2/ws2/src/build/metafly_tf_pub/resource/metafly_tf_pub -> /home/blackandgold/ece569-fall2024/Lab2/ws2/src/install/metafly_tf_pub/share/ament_index/resource_index/packages
+symbolically linking /home/blackandgold/ece569-fall2024/Lab2/ws2/src/build/metafly_tf_pub/package.xml -> /home/blackandgold/ece569-fall2024/Lab2/ws2/src/install/metafly_tf_pub/share/metafly_tf_pub

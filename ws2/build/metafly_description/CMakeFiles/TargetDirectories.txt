@@ -1,0 +1,9 @@
+/home/blackandgold/ece569-fall2024/Lab2/ws2/build/metafly_description/CMakeFiles/uninstall.dir
+/home/blackandgold/ece569-fall2024/Lab2/ws2/build/metafly_description/CMakeFiles/metafly_description_uninstall.dir
+/home/blackandgold/ece569-fall2024/Lab2/ws2/build/metafly_description/CMakeFiles/test.dir
+/home/blackandgold/ece569-fall2024/Lab2/ws2/build/metafly_description/CMakeFiles/edit_cache.dir
+/home/blackandgold/ece569-fall2024/Lab2/ws2/build/metafly_description/CMakeFiles/rebuild_cache.dir
+/home/blackandgold/ece569-fall2024/Lab2/ws2/build/metafly_description/CMakeFiles/list_install_components.dir
+/home/blackandgold/ece569-fall2024/Lab2/ws2/build/metafly_description/CMakeFiles/install.dir
+/home/blackandgold/ece569-fall2024/Lab2/ws2/build/metafly_description/CMakeFiles/install/local.dir
+/home/blackandgold/ece569-fall2024/Lab2/ws2/build/metafly_description/CMakeFiles/install/strip.dir
