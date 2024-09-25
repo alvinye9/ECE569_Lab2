@@ -16,6 +16,6 @@ As we said before, you can work on Step 1 or Step 2 independently. It might be w
 
 #### You can test that you have SSH keys set up correctly by trying to modify these values from your personal computer and/or eceprog computer (see Step 1 or Step 2)
 
-Your Name: `your name`
+Your Name: `Alvin Ye`
 
-Your Email: `your email@purdue.edu`
+Your Email: `ye372@purdue.edu`
